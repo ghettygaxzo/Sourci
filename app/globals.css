@@ -1,0 +1,5 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+*{box-sizing:border-box} html{scroll-behavior:smooth} body{margin:0;background:#f4f7fc;color:#07152f;font-family:Arial,Helvetica,sans-serif} button{font:inherit} ::selection{background:#bcd0ff}
+.grid-bg{background-image:linear-gradient(rgba(47,107,255,.055) 1px,transparent 1px),linear-gradient(90deg,rgba(47,107,255,.055) 1px,transparent 1px);background-size:36px 36px}
